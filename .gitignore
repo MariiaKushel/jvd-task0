@@ -97,3 +97,5 @@ local.properties
 # Maven
 log/
 target/
+
+test-output/
