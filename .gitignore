@@ -1,3 +1,6 @@
+test-output/
+/test-output
+
 # Compiled class file
 *.class
 
@@ -97,5 +100,3 @@ local.properties
 # Maven
 log/
 target/
-
-test-output/
